@@ -12,8 +12,10 @@ git clone git@github.com:kjirou/chu_chu_machine.git
 After that, set `$PATH` to `bin` directory.
 
 
-## Usage
+## Example
+
+Download all `href="*.mp3"` files in `foo.html` page to current directory.
 
 ```
-chuchu http://example.com/foo/bar.html mp3 -e sjis
+chuchu http://example.com/foo.html mp3 -e sjis
 ```
