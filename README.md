@@ -19,3 +19,8 @@ Download all `href="*.mp3"` files in `foo.html` page to current directory.
 ```
 chuchu http://example.com/foo.html mp3 -e sjis
 ```
+
+
+## というかこれ使えって言われた
+
+- http://rubygems.org/gems/mechanize
